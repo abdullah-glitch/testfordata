@@ -1,41 +1,39 @@
-[
-	{
-		"type": "table",
-		"name": "movies",
-		"database": "ab16ce018",
-		"data":[
-			{
-				"id": "1",
-				"title": "star wars"
-			},
-			{
-				"id": "2",
-				"title": "the dark knight"
-			},
-			{
-				"id": "3",
-				"title": "ironman"
-			},
-			{
-				"id": "4",
-				"title": "good will hunting"
-			},
-			{
-				"id": "5",
-				"title": "wolverine"
-			},
-			{
-				"id": "6",
-				"title": "the matrix"
-			},
-			{
-				"id": "7",
-				"title": "kungfu panda"
-			},
-			{
-				"id": "8",
-				"title": "deadpool"
-			}
-		]
-	}
-]
+{
+	"type": "table",
+	"name": "movies",
+	"database": "ab16ce018",
+	"data":[
+		{
+			"id": "1",
+			"title": "star wars"
+		},
+		{
+			"id": "2",
+			"title": "the dark knight"
+		},
+		{
+			"id": "3",
+			"title": "ironman"
+		},
+		{
+			"id": "4",
+			"title": "good will hunting"
+		},
+		{
+			"id": "5",
+			"title": "wolverine"
+		},
+		{
+			"id": "6",
+			"title": "the matrix"
+		},
+		{
+			"id": "7",
+			"title": "kungfu panda"
+		},
+		{
+			"id": "8",
+			"title": "deadpool"
+		}
+	]
+}
