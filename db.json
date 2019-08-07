@@ -1,14 +1,5 @@
 [
 	{
-		"type": "header",
-		"version": "4.9.0.1",
-		"comment": "Export to JSON plugin for PHPMyAdmin"
-	},
-	{
-		"type": "database",
-		"name": "ab16ce018"
-	},
-	{
 		"type": "table",
 		"name": "movies",
 		"database": "ab16ce018",
