@@ -1,39 +1,29 @@
 {
-	"type": "table",
-	"name": "movies",
-	"database": "ab16ce018",
-	"data":[
+	"data": [
 		{
-			"id": "1",
-			"title": "star wars"
+			"name": 'AZ Foods',
+			"latitude": 33.72148,
+			"longitude": 73.04329
 		},
 		{
-			"id": "2",
-			"title": "the dark knight"
+			"name": 'BY Meat',
+			"latitude": 33.6938118,
+			"longitude": 73.0651511
 		},
 		{
-			"id": "3",
-			"title": "ironman"
+			"name": 'CX Meat',
+			"latitude": 33.6931881,
+			"longitude": 73.0658475
 		},
 		{
-			"id": "4",
-			"title": "good will hunting"
+			"name": 'MeatFood',
+			"latitude": 33.6911838,
+			"longitude": 73.0634211
 		},
 		{
-			"id": "5",
-			"title": "wolverine"
-		},
-		{
-			"id": "6",
-			"title": "the matrix"
-		},
-		{
-			"id": "7",
-			"title": "kungfu panda"
-		},
-		{
-			"id": "8",
-			"title": "deadpool"
+			"name": 'Butchers',
+			"latitude": 33.6918318,
+			"longitude": 73.0611111
 		}
 	]
 }
