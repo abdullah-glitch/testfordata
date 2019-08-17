@@ -7,23 +7,23 @@
 		},
 		{
 			'name': 'BY Meat',
-			'latitude': 33.6938118,
-			'longitude': 73.0651511
+			'latitude': 33.69381,
+			'longitude': 73.06515
 		},
 		{
 			'name': 'CX Meat',
-			'latitude': 33.6931881,
-			'longitude': 73.0658475
+			'latitude': 33.69318,
+			'longitude': 73.06584
 		},
 		{
 			'name': 'MeatFood',
-			'latitude': 33.6911838,
-			'longitude': 73.0634211
+			'latitude': 33.69118,
+			'longitude': 73.06342
 		},
 		{
 			'name': 'Butchers',
-			'latitude': 33.6918318,
-			'longitude': 73.0611111
+			'latitude': 33.69183,
+			'longitude': 73.06111
 		}
 	]
 ]
