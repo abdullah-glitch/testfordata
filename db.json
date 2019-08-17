@@ -1,29 +1,29 @@
 {
 	"shops": [
 		{
-			"name": "AZ Foods",
-			"latitude": "33.72148",
-			"longitude": "73.04329"
+			"name": "Shahnawaz Halal Meat & Groceries, Oak Tree Road, Iselin",
+			"latitude": "40.573779",
+			"longitude": "-74.325575"
 		},
 		{
-			"name": "BY Meat",
-			"latitude": "33.69381",
-			"longitude": "73.06515"
+			"name": "Minar Halal Meat, Newark Avenue, Jersey City",
+			"latitude": "40.73533",
+			"longitude": "-74.063479"
 		},
 		{
-			"name": "CX Meat",
-			"latitude": "33.69318",
-			"longitude": "73.06584"
+			"name": "Punjab Halal Meat & Groceries, East Main Street, Somerville",
+			"latitude": "40.566552",
+			"longitude": "-74.606526"
 		},
 		{
-			"name": "MeatFood",
-			"latitude": "33.69118",
-			"longitude": "73.06342"
+			"name": "Shaan Halal Meat Market, Franklin Township",
+			"latitude": "40.4397805",
+			"longitude": "-74.534158"
 		},
 		{
-			"name": "Butchers",
-			"latitude": "33.69183",
-			"longitude": "73.06111"
+			"name": "Bereket Marketplace, Monmouth Junction",
+			"latitude": "40.386942",
+			"longitude": "-74.555799"
 		}
 	]
 }
