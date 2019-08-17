@@ -1,29 +1,29 @@
 [
-	'shops': [
+	"shops": [
 		{
-			'name': 'AZ Foods',
-			'latitude': 33.72148,
-			'longitude': 73.04329
+			"name": "AZ Foods",
+			"latitude": 33.72148,
+			"longitude": 73.04329
 		},
 		{
-			'name': 'BY Meat',
-			'latitude': 33.69381,
-			'longitude': 73.06515
+			"name": "BY Meat",
+			"latitude": 33.69381,
+			"longitude": 73.06515
 		},
 		{
-			'name': 'CX Meat',
-			'latitude': 33.69318,
-			'longitude': 73.06584
+			"name": "CX Meat",
+			"latitude": 33.69318,
+			"longitude": 73.06584
 		},
 		{
-			'name': 'MeatFood',
-			'latitude': 33.69118,
-			'longitude': 73.06342
+			"name": "MeatFood",
+			"latitude": 33.69118,
+			"longitude": 73.06342
 		},
 		{
-			'name': 'Butchers',
-			'latitude': 33.69183,
-			'longitude': 73.06111
+			"name": "Butchers",
+			"latitude": 33.69183,
+			"longitude": 73.06111
 		}
 	]
 ]
